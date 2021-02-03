@@ -1,4 +1,4 @@
-使用celery 创建任务用flower监控
+### 使用celery创建任务用supervisord 监控 flower 和 celery
 
 
 
